@@ -10,8 +10,7 @@ Pour aller plus vite dans cette lutte, je dois développer une application de ma
 
 ## Données d'entrée:
 
-- do
-- e
+- fichier csv contenant les caractériqtiques de 1500 billets, leur type vrai/faux étant précisé pour l'apprentissage supervisé.
 
 ## Les livrables:
 
